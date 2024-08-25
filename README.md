@@ -1,1 +1,4 @@
-# kubernates
+### Check Kubernates Version
+```
+kubectl version
+```
